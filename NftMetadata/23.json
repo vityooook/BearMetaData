@@ -1,0 +1,11 @@
+{
+    "name": "Rare Bear",
+    "description": "These golden bears are known all around! In addition to access to the private channel of the BEAR project, they include a BEAR+ subscription for 7 days!",
+    "image": "https://raw.githubusercontent.com/vityooook/BearMetaData/main/Rare/9.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        }
+    ]
+}

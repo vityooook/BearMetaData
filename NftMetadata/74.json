@@ -1,0 +1,11 @@
+{
+    "name": "Bear",
+    "description": "A regular bear that grants access to the private channel of the BEAR project.",
+    "image": "https://raw.githubusercontent.com/vityooook/BearMetaData/main/Common/5.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}

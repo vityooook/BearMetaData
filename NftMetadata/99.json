@@ -1,0 +1,11 @@
+{
+    "name": "Legendary Bear",
+    "description": "Legendary bears are the heart of the community; almost no one has seen them in person, but everyone knows who they are. Private channel, BEAR+ subscription for a month, airdrops \u2014 everything included.",
+    "image": "https://raw.githubusercontent.com/vityooook/BearMetaData/main/Legendary/11.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Legendary"
+        }
+    ]
+}
